@@ -7,9 +7,10 @@ Official repository for the paper "[InterleaveThinker: Reinforcing Agentic Inter
 
 <!-- [[🌍 Project Page](https://zhengdian1.github.io/InterleaveThinker-proj/)] [[📖 Paper](assets/paper.pdf)] [[🤗 Train-Data](https://huggingface.co/InterleaveThinker/Train-Data)] [[🤗 InterleaveThinker-Planner-8B](https://huggingface.co/InterleaveThinker/InterleaveThinker-Planner-8B)] [[🤗 Critic-SFT-8B](https://huggingface.co/InterleaveThinker/Critic-SFT-8B)] [[🤗 InterleaveThinker-Critic-8B](https://huggingface.co/InterleaveThinker/InterleaveThinker-Critic-8B)]  -->
 
-[[🌍 Project Page](https://zhengdian1.github.io/InterleaveThinker-proj/)] [[📖 Paper](https://arxiv.org/pdf/2606.13679)] [[🤗 InterleaveThinker-Planner-8B](https://huggingface.co/InterleaveThinker/InterleaveThinker-Planner-8B)] [[🤗 Critic-SFT-8B](https://huggingface.co/InterleaveThinker/Critic-SFT-8B)] [[🤗 InterleaveThinker-Critic-8B](https://huggingface.co/InterleaveThinker/InterleaveThinker-Critic-8B)] 
+[[🌍 Project Page](https://zhengdian1.github.io/InterleaveThinker-proj/)] [[📖 Paper](https://arxiv.org/pdf/2606.13679)] [[🤗 Demo](https://huggingface.co/spaces/zhengli1013/interleavethinker)] [[🤗 InterleaveThinker-Planner-8B](https://huggingface.co/InterleaveThinker/InterleaveThinker-Planner-8B)] [[🤗 Critic-SFT-8B](https://huggingface.co/InterleaveThinker/Critic-SFT-8B)] [[🤗 InterleaveThinker-Critic-8B](https://huggingface.co/InterleaveThinker/InterleaveThinker-Critic-8B)] 
 
 ## 💥 News
+- **[2026.07.07]** Release HF demo, enjoy it! 🚀
 - **[2026.06.12]** Release paper, models, training, inference. 🚀
 
 ## 💭 Introduction
